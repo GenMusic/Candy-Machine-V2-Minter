@@ -60,7 +60,7 @@ import styled from "styled-components";
     }
  `
 
- export const FrogExample = styled.img`
+ export const GenExample = styled.img`
     height: 250px;
     width: 250px;
     margin: 5px;

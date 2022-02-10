@@ -288,7 +288,7 @@ const Home = (props: HomeProps) => {
       </DiscordBtn>
 
       <TwitterBtn>
-  <SocialBtn href="https://twitter.com/frognationsol"/>
+  <SocialBtn href="https://twitter.com/genmusicnft"/>
 </TwitterBtn>
     {!wallet ? <HeroImage src = {ConnectBG}/> : <HeroImage src = {MintBG}/>} 
     </HeroContainer>
